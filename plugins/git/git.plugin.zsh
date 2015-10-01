@@ -1,5 +1,5 @@
 # Aliases
-alias g='git'
+alias g='hub'
 compdef g=git
 alias gst='git status'
 compdef _git gst=git-status
